@@ -8,10 +8,10 @@ const obj2: obj = {
 }
 
 console.log(123);
-let a: (1 | 2) = 1;
+/*let a: (1 | 2) = 1;
 a = 2
 const b = { b1: 123, b2: 456 };
-b.b1 = 999
+b.b1 = 999*/
 const arr1: [string | number, number] = [1, 2]
 const arr2: number[] = [1, 2]
 
