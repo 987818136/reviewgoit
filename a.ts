@@ -4,7 +4,7 @@ type obj = {
 }
 const obj2: obj = {
     a: 123,
-    b: '123'
+    b: '1231111'
 }
 
 console.log(123);
